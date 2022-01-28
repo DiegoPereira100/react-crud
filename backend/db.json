@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "name": "Maria",
-      "email": "mariapereira@gmail.com",
-      "id": 1
-    },
-    {
       "name": "Junior",
       "email": "junior-empresa@hotmail.com",
       "id": 2
@@ -14,6 +9,11 @@
       "name": "Diego",
       "email": "diegobr@hotmail.com",
       "id": 3
+    },
+    {
+      "name": "Mateus",
+      "email": "mateusantos@hotmail.com",
+      "id": 4
     }
   ]
 }
